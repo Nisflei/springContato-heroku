@@ -56,6 +56,13 @@ json:
 }
 ```
 
+#### * Shutdown / Start
 
+É necessario executar
+
+```
+heroku maintenance:off
+heroku maintenance:on
+```
 
 ###### Referência: https://www.youtube.com/watch?v=dusvP0CFisw
